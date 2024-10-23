@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://drescural.github.io/drescural.drescural
+Sitemap: https://drescural.github.io/app/drescural.drescural
+Sitemap: https://drescural.github.io/assets/drescural.drescural
+Sitemap: https://drescural.github.io/css/drescural.drescural
+Sitemap: https://drescural.github.io/includes/drescural.drescural
+Sitemap: https://drescural.github.io/item/drescural.drescural
+Sitemap: https://drescural.github.io/src/drescural.drescural
